@@ -6,8 +6,8 @@ Go to the indentifyErrors file,
 1) Open up the file IdentifyErrors
 2) FIX the look of the file with option + shift + f (mac) [Shift + Alt + F  should work on windows]
 3) Run the code an Identify the 4 indentifyErrors and type them below [found in each try-catch]
-  A)
-  B)
-  C)
-  D)
+  A)Logical--The coder had hello and world printing on two different lines so I deleted world and added it to the first line
+  B)Logical--The coder had the astrix printing all after eachother instead of in a triangle form
+  C)Logical--The coder dividing the wrong way, it should be 0/5 not 5/0
+  D)Logical--I switched the code to the code made for printing. 
 4)Save and sync changes with github to turn in! 
